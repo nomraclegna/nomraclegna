@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="blue_rose.png" alt="Banner: Angel, Computer Science student, Data Science and AI/ML" width="100%" />
-
 </div>
 
-### Hi, I'm Angel 👋
+### Hi, I'm Angel <img src="assets/blue_rose.png" alt="Angel's icon" height="28" align="absmiddle" />
 
 I'm a Computer Science student at the Universidad Autónoma de Nuevo León (UANL), focused on data science and artificial intelligence / machine learning. I build small, practical projects that put models to work: computer vision, recommendation and audio classification.
 
