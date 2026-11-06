@@ -8,7 +8,7 @@ I'm a Computer Science student at the Universidad Autónoma de Nuevo León (UANL
 
 - 🔭 Currently exploring **data science and AI/ML**
 - 🛠️ I work mostly with **Python**, plus FastAPI for backends
-- 📥 Reach me: [LinkedIn](https://www.linkedin.com/in/TODO_LINKEDIN/) · [Email](mailto:TODO_EMAIL)
+- 📥 Reach me: [LinkedIn](www.linkedin.com/in/angel-emiliano-carmona-lozano-314514341) · [Email](mailto:clangele2005@gmail.com)
 
 ## 🌱 Featured projects
 
