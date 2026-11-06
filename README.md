@@ -12,13 +12,13 @@ I'm a Computer Science student at the Universidad Autónoma de Nuevo León (UANL
 
 ## 🌱 Featured projects
 
-**[Voraci](https://github.com/nomraclegna/TODO_VORACI_REPO)**
+**[Voraci](https://github.com/nomraclegna/Voraci-App)**
 A pantry and recipe app. It uses the Gemini API to identify food from a camera photo and generate three different recipes from what you have.
 
-**[Music Taste](https://github.com/nomraclegna/TODO_MUSIC_TASTE_REPO)**
+**[Music Taste](https://github.com/nomraclegna/Music-Taste)**
 A music recommender built on track features from the Spotify API.
 
-**[Voice Guard](https://github.com/nomraclegna/TODO_VOICE_GUARD_REPO)**
+**[Voice Guard](https://github.com/nomraclegna/Voice-Guard)**
 A classifier that detects synthetic (AI-generated) voices.
 
 ## 🧰 Tools
